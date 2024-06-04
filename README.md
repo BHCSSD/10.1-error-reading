@@ -1,6 +1,6 @@
 # 10.1-error-reading
 
-```
+```javaScript
 function setup() {
   createCanvas(800, 500);
 }//setup
